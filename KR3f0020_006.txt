@@ -1,0 +1,71 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定儀象考成
+#+DATE: 2015-08-24 23:09:54.206215
+#+PROPERTY: ID KR3f0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
+<pb:KR3f0020_WYG_006-1a>¶
+欽定四庫全書¶
+欽定儀象考成卷六¶
+　恒星黄道經緯度表五¶
+　　黄道大梁宫(赤道度附/)¶
+<pb:KR3f0020_WYG_006-2a>¶
+¶
+<pb:KR3f0020_WYG_006-3a>¶
+¶
+<pb:KR3f0020_WYG_006-4a>¶
+¶
+<pb:KR3f0020_WYG_006-5a>¶
+¶
+<pb:KR3f0020_WYG_006-6a>¶
+¶
+<pb:KR3f0020_WYG_006-7a>¶
+¶
+<pb:KR3f0020_WYG_006-8a>¶
+¶
+<pb:KR3f0020_WYG_006-9a>¶
+¶
+<pb:KR3f0020_WYG_006-10a>¶
+¶
+<pb:KR3f0020_WYG_006-11a>¶
+¶
+<pb:KR3f0020_WYG_006-12a>¶
+¶
+<pb:KR3f0020_WYG_006-13a>¶
+¶
+<pb:KR3f0020_WYG_006-14a>¶
+¶
+<pb:KR3f0020_WYG_006-15a>¶
+¶
+<pb:KR3f0020_WYG_006-16a>¶
+¶
+<pb:KR3f0020_WYG_006-17a>¶
+¶
+<pb:KR3f0020_WYG_006-18a>¶
+¶
+<pb:KR3f0020_WYG_006-19a>¶
+¶
+<pb:KR3f0020_WYG_006-20a>¶
+¶
+<pb:KR3f0020_WYG_006-21a>¶
+¶
+<pb:KR3f0020_WYG_006-22a>¶
+¶
+<pb:KR3f0020_WYG_006-23a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3f0020_WYG_006-23b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+欽定儀象考成卷六¶
